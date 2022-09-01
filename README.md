@@ -20,7 +20,7 @@ Sou estudante de progamação com foco em [front-end](https://www.google.com/sea
 ---
 
 <div alingn="left">
-  <img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreDcode&show_icons=true&theme=tokyonight&cont_private=true" />
+  <img height="200em" width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreDcode&show_icons=true&theme=tokyonight&cont_private=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndreDcode&count_private=true&theme=tokyonight&cont_private=true"/>
 </div>
 
